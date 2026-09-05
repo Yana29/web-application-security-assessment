@@ -1,0 +1,1 @@
+This portfolio repository is derived from the author's 2023 Master's thesis. It is a curated presentation of the practical work and evidence documented there.

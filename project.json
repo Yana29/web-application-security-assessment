@@ -1,0 +1,21 @@
+{
+  "project": "Web Application Security Assessment — bWAPP",
+  "author": "Yana Tymoshenko",
+  "year": 2023,
+  "type": "Master's thesis / academic security assessment",
+  "target": "Local intentionally vulnerable bWAPP environment",
+  "tools": [
+    "bWAPP",
+    "XAMPP",
+    "Apache",
+    "MySQL",
+    "OWASP ZAP"
+  ],
+  "documented_zap_observations": 18,
+  "risk_distribution": {
+    "high": 0,
+    "medium": 7,
+    "low": 5,
+    "informational": 6
+  }
+}
